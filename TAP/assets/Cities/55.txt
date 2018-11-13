@@ -1,0 +1,25 @@
+Bogota
+55
+246,428
+3
+Bogota Hotel
+320
+Colombiana Hotel
+225
+Excelsior Hotel
+235
+3
+52
+450
+130
+50
+125
+100
+15
+324
+150
+4
+Museu do Ouro
+Morro de Monserrate
+Museu Botero
+Bolivar Square

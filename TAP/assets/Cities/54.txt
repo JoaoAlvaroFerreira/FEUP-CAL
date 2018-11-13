@@ -1,0 +1,27 @@
+Chicago
+54
+225,259
+4
+Chicago Hotel
+180
+Congress Plaza Hotel
+170
+Essex Inn Hotel
+190
+Hilton Hotel
+185
+3
+25
+180
+120
+37
+345
+200
+30
+450
+205
+4
+Millennium Park
+Willis Tower
+Cais Naval
+Cloud Gate

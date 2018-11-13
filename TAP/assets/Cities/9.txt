@@ -1,0 +1,26 @@
+New York
+9
+293,163
+3
+New York Hotel
+120
+Central Park Hotel
+70
+Plaza Tower Hotel
+60
+3
+8
+112
+45
+3
+112
+75
+2
+240
+300
+5
+Central Park
+Empire State Building
+Liberty Statue
+Museu de Arte Moderna
+ChinaTown

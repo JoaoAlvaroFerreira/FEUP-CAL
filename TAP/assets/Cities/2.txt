@@ -1,0 +1,22 @@
+Lisboa
+2
+525,186
+2
+Hotel Avenida Palace
+90
+Bairro Alto Hotel
+50
+3
+1
+220
+70
+8
+180
+80
+5
+170
+100
+3
+Torre de Belem
+Rossio
+Mosteiro dos Jeronimos

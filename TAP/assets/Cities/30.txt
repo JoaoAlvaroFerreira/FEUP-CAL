@@ -1,0 +1,25 @@
+Ancara
+30
+685,181
+4
+Suit Hotel Ancara
+75
+Ancara Design And Suites Palace
+95
+Royal Hotel Ancara
+80
+Ancara Business Hotel
+115
+3
+27
+180
+165
+56
+990
+865
+13
+1135
+940
+2
+Mausoleu de Atatrurk
+Mesquita de Kocatepe

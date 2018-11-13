@@ -1,0 +1,23 @@
+Argel
+16
+570,198
+3
+Argel Hotel
+250
+Honher Hotel
+240
+Argel Royal Palace
+270
+3
+17
+90
+40
+3
+100
+70
+45
+200
+100
+2
+Sidi Boumediene Mosque
+Sanctuary of Martyrs

@@ -1,0 +1,23 @@
+La Paz
+12
+107,251
+2
+La Paz Hotel
+90
+Bolivia Mayor Hotel
+100
+3
+56 
+60
+110
+55
+40
+120
+48
+50
+100
+4
+Tiauanaco
+Illimani
+La Muela del diablo
+Praça Murillo

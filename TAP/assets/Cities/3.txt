@@ -1,0 +1,22 @@
+Madrid
+3
+546,180
+2
+Domus Julia
+70
+Diana Roof Garden
+60
+3
+8
+200
+70
+10
+150
+90
+4
+95
+120
+3
+Estadio Santiago Bernabeu
+Plaza Mayor
+Palacio Real de Madrid

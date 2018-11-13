@@ -1,0 +1,24 @@
+Rio de Janeiro
+50
+377,485
+3
+Rio Hotel
+210
+Ipanema Rio Hotel
+230
+Marian Palace Rio Hotel
+210
+3
+12
+60
+40
+13
+170
+210
+52
+230
+200
+3
+Arcos da Lapa
+Fuente Wallace
+Cristo Redentor

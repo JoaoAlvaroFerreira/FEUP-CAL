@@ -1,0 +1,23 @@
+Maputo
+44
+688,476
+2
+Maputo Hotel
+190
+Maya Hotel
+180
+3
+1
+170
+200
+3
+45
+60
+50
+46
+120
+60
+3
+Casa de Ferro
+Villa Joia
+Catedral de Maputo

@@ -1,0 +1,23 @@
+Lima
+14
+239,416
+3
+Lima Hotel
+170
+Peru Royal Hotel
+190
+Bailando Hotel
+200
+3
+13
+60
+110
+12
+50
+120
+50
+80
+400
+2
+Chabuca Granda Monumento
+Francisco Pizzaro

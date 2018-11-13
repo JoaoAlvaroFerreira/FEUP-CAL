@@ -1,0 +1,22 @@
+Jacarta
+42
+1001,390
+2
+Jacarta Hotel
+180
+OceanSide Hotel
+190
+3
+11
+64
+100
+36
+34
+45
+39
+75
+90
+3
+Catedral Jakarta 
+Grand Indonesia Mall
+Mesquita Istiqlal

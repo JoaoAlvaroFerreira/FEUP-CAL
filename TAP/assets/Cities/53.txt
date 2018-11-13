@@ -1,0 +1,26 @@
+Las Vegas
+53
+103,294
+4
+Vegas Hotel
+300
+Paris Royal Hotel
+320
+Lotus Hotel
+290
+Sunrise Manor Hotel
+330
+3
+33
+690
+230
+24
+560
+100
+47
+340
+260
+3
+Bellagio
+Mob Museum
+Stratosphere

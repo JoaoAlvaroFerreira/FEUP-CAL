@@ -1,0 +1,25 @@
+Los Angeles
+52
+91,296
+3
+Angeles Hotel
+300
+Hollywood Hotel
+320
+Beverly Hills Hotel
+350
+3
+34
+230
+200
+27
+390
+400
+16
+260
+170
+4
+Hollywood Boulevard
+Walk of Fame
+Griffith Park
+Universal Studios

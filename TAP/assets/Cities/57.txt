@@ -1,0 +1,25 @@
+Paris
+57
+563,323
+3
+Grand Hotel du Louvre
+115
+Eiffel Resort et Amis
+135
+Maison du Roix
+175
+3
+1
+75
+90
+3
+50
+60
+5
+50
+90
+4
+Torre Eiffel
+Museu de Louvre
+Montmartre
+Museu de Orsay
